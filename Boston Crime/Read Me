@@ -1,7 +1,0 @@
-# Machine-Learning-Time-Series-Project
-This project aims at analyzing 4-year crime data in Boston, which contains more than 310,000 rows. 
-Main parts include:
- - Data Cleaning
- - Exploratory Data Analysis
- - Machine Learning (Classification, Clustering, Feature Selections, Deep Learning) 
- - Time Series Analysis
