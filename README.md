@@ -4,6 +4,6 @@ This is a new repositpry, where I include all personal projects in this reposito
 - Data Cleaning Projects
 - Exploratary Data Analysis Projects
 - Machine Learning Projects
-- Statistical Projects
+- Statistical Projects (Probability Projects are included)
 - Probability-wise Porjects
 - ALL-in-One: Boston Crime
