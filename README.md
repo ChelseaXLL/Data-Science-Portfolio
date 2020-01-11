@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
-This is a new repositpry, where I include all personal projects in this repository
-## Topic indlude:
+This is a new repositpry, where I include all personal data science-related projects in this repository
+## Topics are as followed:
 - Data Cleaning Projects
 - Exploratary Data Analysis Projects
 - Machine Learning Projects
