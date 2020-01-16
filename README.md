@@ -5,5 +5,4 @@ This is a new-created repositpry, where I include  personal data science-related
 - Exploratary Data Analysis Projects
 - Machine Learning Projects
 - Statistical Projects (Probability Projects are included)
-- Probability-wise Porjects
-- ALL-in-One: Boston Crime
+- EDA/TSA/ML/DV: Boston Crime
